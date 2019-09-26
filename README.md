@@ -1,5 +1,6 @@
 # SDS-M1-LendingClub
 Group members: Michael Thomsen, Mathias Flinta, Emma Munk og Signe Korsgaard.
+
 This is our SDS M1 project where we analyse data from LendingClub to predict 'Good' or 'Bad' loans. 
 
 LendingClub is an online peer to peer platform that match lenders with investors for private and small business loans. This project will analyse data from their platform to predict which lenders who will not be able to pay their full loan in due time defined here as a "bad loan". So this is esssentially a risk analysis.
