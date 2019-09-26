@@ -7,8 +7,10 @@ LendingClub is an online peer to peer platform that match lenders with investors
 
 The project is made in Rstudio locally in a R Markdown file, and then published to PDF and HTLM. We highly recommend to read the whole project in HTLM as the formatting is way nicer here. Just use the Google Colab to run through and see if it works. 
 
-Link to Google Colab:
+Link to Google Colab: https://colab.research.google.com/drive/1ElhHlPrcmvlu52jbPgiSRg8CxAA7n-dP?fbclid=IwAR2_Q18aW_J_ibDZc6orPL4775hjRU4HV9aF4dmjzme-CguRPy46tsW0efc 
 
 You only need to run one file to do the whole project called: SDS-Group-project.Rmd (if you want to run locally)
+
 You can read the project just by finding the HTLM file by name: SDS-Group-project.html (recommended for reading!)
+
 Or in PDF: SDS-Group-project.pdf (not recommended for reading!)
